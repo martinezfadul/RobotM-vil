@@ -33,11 +33,7 @@ Si todo se instaló y compiló correctamente, se debería ver un Gazebo como el 
 Y un RViz como el siguiente:<br>
 <img src="https://github.com/mnegretev/Mobile-Robots-2021-1/blob/master/Media/rviz.png" alt="Star Gazer App" width="700"/>
 
-## Contacto
-Dr. Marco Negrete<br>
+Profesor: Dr. Marco Negrete<br>
 Profesor Asociado C<br>
 Departamento de Procesamiento de Señales<br>
 Facultad de Ingeniería, UNAM <br>
-[mnegretev.info](http://mnegretev.info)<br>
-contact@mnegretev.info<br>
-marco.negrete@ingenieria.unam.edu<br>
